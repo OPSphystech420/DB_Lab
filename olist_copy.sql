@@ -1,4 +1,4 @@
--- PostgreSQL Оlist DML
+-- PostgreSQL Оlist Copy
 --
 -- Database: olist_db
 -- ------------------------------------------------------
