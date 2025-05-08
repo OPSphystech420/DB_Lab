@@ -1,4 +1,4 @@
-# Лабораторная работа по курсу Базы данных ([EN](#laboratory-work-on-the-course-databases-ru-🇷🇺) 🇬🇧)
+# Лабораторная работа по курсу Базы данных ([EN](#laboratory-work-on-the-course-databases-ru-) 🇬🇧)
 
 ##### <span style="color: green;">**Цель работы:**</span>
 ##### Освоить практические навыки SQL для аналитической обработки реального набора данных интернет магазина - `Olist`. Так как лабораторная работа имеет открытый формат выполнения, будем проводить аналз полученных результатов, составлять гипотезы, сравнивать показатели по регионам и категориям товаров, вычислять основные метрики и оформлять все в Jupyter Notebook.
@@ -40,7 +40,7 @@
 
 ---
 
-# Laboratory work on the course Databases ([RU](#лабораторная-работа-по-курсу-базы-данных-en-🇬🇧) 🇷🇺)
+# Laboratory work on the course Databases ([RU](#лабораторная-работа-по-курсу-базы-данных-en-) 🇷🇺)
 
 ##### <span style="color: green;">**Job Objective:**</span>
 ##### To master the practical skills of SQL for analytical processing of a real data set of online store - `Olist`. Since the laboratory work has an open format of execution, we will analyze the results obtained, make hypotheses, compare indicators by regions and product categories, calculate the main metrics and formalize everything in Jupyter Notebook.
