@@ -5,7 +5,7 @@
 
 ---
 
-❗️ **NOTE**: перед просмотром `lab_work.ipynb` настоятельно рекомендуется сделать `git clone` или скачать этот файл, чтобы открыть его локально, так как его полное содержимое не будет отображаться на git ❗️ 
+❗️ **NOTE**: перед просмотром `lab_work.ipynb` настоятельно рекомендуется сделать `git clone` или скачать этот файл, чтобы открыть его локально, так как его полное содержимое не будет отображаться на git 
 
 ##### 1) [Описание](DB_2025_Bonus.pdf): иструкция по выполнению задания + 7 вариантов
 
@@ -26,16 +26,22 @@
 
 ---
 
+Logical scheme:
 ![images](images/olist_db.olist.png)
 
+Distribution of the total value of orders by territory of Brazil:
 ![images](images/olist_payments_map.png)
 
+Distribution of product categories:
 ![images](images/pie_prod_cat.png)
 
+Relative deviation of product categories:
 ![images](images/ln_prod_cat.png)
 
+Variation in number of shipments and average cost:
 ![images](images/shipment_scater.png)
 
+Distribution of payment methods:
 ![images](images/top5_payments.png)
 
 ---
